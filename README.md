@@ -15,7 +15,7 @@ All the projects below can provide an idea of how well I can grasp the main conc
 | Project Name  | Description   | Tools Used    |
 | ------------- | ------------- | ------------- |
 | [Profiling and Analyzing Yelp Dataset](https://coursera-assessments.s3.amazonaws.com/assessments/1675706900802/1d2ebb12-54e7-4aac-b2ed-de0a670c4297/WorkSheetDS.txt)  |  Using the dataset provided by Yelp consisting of reviews made by costumers, tested my knowledge of a wide range of concepts and SQL design techniques   | Notepad++, SQL   |
-| [Danny's Dinner]  | Content Cell  | Content Cell  |
+| [Danny's Dinner](https://github.com/Sebsram/Case-Study-Danny-s-Dinner)  | Content Cell  | Content Cell  |
 | [Pizza Runner]  | Content Cell  | Content Cell  |
 | [Foodie-Fi] | Content Cell  | Content Cell  |
 | [Data Bank]  | Content Cell  | Content Cell  |
