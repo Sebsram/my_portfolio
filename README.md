@@ -9,6 +9,11 @@ In my portfolio, I will provide a walkthrough of all my projects so far! I divid
 | [Case Study - Bellabeat](https://www.kaggle.com/code/sebyramirez/case-study-bellabeat)  | Focused on understanding habits and trends by analyzing smart device usage data in order to gain insight into how consumers use non-Bellabeat smart devices with the main objective of creating more opportunities for growth in the company.  | Phyton and Tableaue  |
 | [Case Study - Cyclist Trip Data](https://www.kaggle.com/code/sebyramirez/case-study-cyclist-divvy-tripdata) | Studied habits and trends in how casual and annual riders use Cyclist bikes differently in order to create a marketing strategy to increase the number of sold memberships by the company.  | R and ggplot library  |
 
+# Python/ Machine Learning :book: :
+| Project Name  | Description   | Tools Used    |
+| ------------- | ------------- | ------------- |
+| Salifort Motors Project | Final project for the Advanced Google Data Analytics program. We focus on implementing different types of Machine Learning models in order to improve satisfaction levels for the company.  | Python and Machine Learning Models such as: Logistic Regression, Tree-based Models and Random Forest Models.   |
+
 # SQL :memo: : 
 All the projects below can provide an idea of how well I can grasp the main concepts as well as implementing them to a day-to-day situation. I would put myself on an intermediate level when it comes to SQL. I have a great passion for this tool and all the things that can be accomplished with it. 
 
