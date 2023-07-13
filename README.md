@@ -21,13 +21,13 @@ All the projects below can provide an idea of how well I can grasp the main conc
 | ------------- | ------------- | ------------- |
 | [Profiling and Analyzing Yelp Dataset](https://coursera-assessments.s3.amazonaws.com/assessments/1675706900802/1d2ebb12-54e7-4aac-b2ed-de0a670c4297/WorkSheetDS.txt)  |  Using the dataset provided by Yelp consisting of reviews made by costumers, tested my knowledge of a wide range of concepts and SQL design techniques   | Notepad++, SQL   |
 | [Danny's Dinner](https://github.com/Sebsram/Case-Study-Danny-s-Dinner)  | Content Cell  | Content Cell  |
-| [Pizza Runner]  | Content Cell  | Content Cell  |
-| [Foodie-Fi] | Content Cell  | Content Cell  |
-| [Data Bank]  | Content Cell  | Content Cell  |
-| [Data Mart]  | Content Cell  | Content Cell  |
-| [Clique Bait]  | Content Cell  | Content Cell  |
-| [Balanced Tree Clothing]  | Content Cell  | Content Cell  |
-| [Fresh Segments] | Content Cell  | Content Cell  |
+| [Pizza Runner](https://github.com/Sebsram/Case-Study---Pizza-Runner)  | Content Cell  | Content Cell  |
+| [Foodie-Fi](https://github.com/Sebsram/Case-Study-Foodie-Fi) | Content Cell  | Content Cell  |
+| [Data Bank](https://github.com/Sebsram/Case-Study-Data-Bank)  | Content Cell  | Content Cell  |
+| [Data Mart](https://github.com/Sebsram/Case-Study-Data-Mart) | Content Cell  | Content Cell  |
+| [Clique Bait](https://github.com/Sebsram/Case-Study-Clique-Bait)  | Content Cell  | Content Cell  |
+| [Balanced Tree Clothing](https://github.com/Sebsram/Case-Study-Balanced-Tree)  | Content Cell  | Content Cell  |
+| [Fresh Segments](https://github.com/Sebsram/Case-Study-Fresh-Segments) | Content Cell  | Content Cell  |
 
 # Tableau 🎨 : 
 | Project Name  | Description   |
