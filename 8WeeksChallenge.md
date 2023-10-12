@@ -6,7 +6,7 @@ While I'm still actively working on some of the projects, feel free to reach out
 
 | Project Name| Description |
 |-------------|-------------|
-|[Case Study #1 - Danny’s Diner](https://github.com/Sebsram/Case-Study-Danny-s-Dinner)|We started with simple questions about customer satisfaction, visiting patters, and expending habits in order to create a more personalised experience for the costumers. |
+|[Case Study #1 - Danny’s Diner](https://github.com/Sebsram/Case-Study-Danny-s-Dinner)| We started with simple questions about customer satisfaction, visiting patters, and expending habits in order to create a more personalised experience for the costumers. |
 |[Case Study #2 - Pizza Runner](https://github.com/Sebsram/Case-Study---Pizza-Runner)|Focused on data transformation, collection, and cleaning with the purpose of making data-driven decision for business growth |
 |[Case Study #3 - Foodie-Fi](https://github.com/Sebsram/Case-Study-Foodie-Fi)|Analyzed data in order to create new strategies to sell monthly subscriptions for the Foodie-Fin startup.|
 |[Case Study #4 - Data Bank](https://github.com/Sebsram/Case-Study-Data-Bank)|Focused on calculating metrics, creating growth, and helping business analyse data in a smart way to better forcast and plan future developments.|
