@@ -18,5 +18,5 @@ In my portfolio, I will provide a walkthrough of all the projects I have worked 
 
 | Project Name  |
 | ------------- | 
-| [8 Weeks SQL Challenge](https://github.com/Sebsram/Case-Study-Danny-s-Dinner)  |
+| [8 Weeks SQL Challenge]([[https://github.com/Sebsram/Case-Study-Danny-s-Dinner](https://github.com/Sebsram/my_portfolio/blob/main/8WeeksChallenge.md)](https://github.com/Sebsram/my_portfolio/blob/main/8WeeksChallenge.md)https://github.com/Sebsram/my_portfolio/blob/main/8WeeksChallenge.md)  |
 
