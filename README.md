@@ -1,4 +1,4 @@
-# my_portfolio :briefcase:
+# My Portfolio :briefcase:
 
 In my portfolio, I will provide a walkthrough of all the projects I have worked on during the last few months on my learning journey. I will provide a short description of the projects itself and the tools used on each one of them. 
 
@@ -15,15 +15,8 @@ In my portfolio, I will provide a walkthrough of all the projects I have worked 
 | [Salifort Motors Project](https://www.kaggle.com/code/sebyramirez/salifort-motors-project-advanced-data-analytics) | Final project for the Advanced Google Data Analytics program. We focus on implementing different types of Machine Learning models in order to improve satisfaction levels for the company.  | Python and Machine Learning Models such as: Logistic Regression, Tree-based Models and Random Forest Models.   |
 
 # SQL :memo: : 
-All the projects below are part of the program: ["8 Week SQL Challenge"](https://8weeksqlchallenge.com/)  Which its main objective is to re-enforce your SQL knowledge and implement it in real-life projects. All the questions range from EDA, SQL Querries and Analysis of results. 
 
 | Project Name  |
 | ------------- | 
-| [Danny's Dinner](https://github.com/Sebsram/Case-Study-Danny-s-Dinner)  |
-| [Pizza Runner](https://github.com/Sebsram/Case-Study---Pizza-Runner)  |
-| [Foodie-Fi](https://github.com/Sebsram/Case-Study-Foodie-Fi) |
-| [Data Bank](https://github.com/Sebsram/Case-Study-Data-Bank)  | 
-| [Data Mart](https://github.com/Sebsram/Case-Study-Data-Mart) |
-| [Clique Bait](https://github.com/Sebsram/Case-Study-Clique-Bait)  |
-| [Balanced Tree Clothing](https://github.com/Sebsram/Case-Study-Balanced-Tree)  |
-| [Fresh Segments](https://github.com/Sebsram/Case-Study-Fresh-Segments) |
+| [8 Weeks SQL Challenge](https://github.com/Sebsram/Case-Study-Danny-s-Dinner)  |
+
