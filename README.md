@@ -18,6 +18,11 @@ In my portfolio, I will provide a walkthrough of all the projects I have worked 
 
 | Project Name  | Description | Tools Used | 
 | ------------- | ----------- | -----------|
-| [8 Weeks SQL Challenge](https://github.com/Sebsram/my_portfolio/blob/main/8WeeksChallenge.md)  | ||
-||
+| [8 Weeks SQL Challenge](https://github.com/Sebsram/my_portfolio/blob/main/8WeeksChallenge.md)  | I embarked on this program to further push my SQL skills, honed through various courses I've completed in recent months.| DB: PostgreSQL v13|
+
+# Tableau ☀️ : 
+| Project Name| Description | Tools Used|
+| ----------- | ------------| ----------|
+
+
 
