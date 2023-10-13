@@ -16,7 +16,8 @@ In my portfolio, I will provide a walkthrough of all the projects I have worked 
 
 # SQL :memo: : 
 
-| Project Name  |
-| ------------- | 
-| [8 Weeks SQL Challenge](https://github.com/Sebsram/my_portfolio/blob/main/8WeeksChallenge.md)  |
+| Project Name  | Description | Tools Used | 
+| ------------- | ----------- | -----------|
+| [8 Weeks SQL Challenge](https://github.com/Sebsram/my_portfolio/blob/main/8WeeksChallenge.md)  | ||
+||
 
